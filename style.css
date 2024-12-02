@@ -34,13 +34,14 @@ button:hover {
 }
 
 .navbar {
-    float:right;
+    float: right;
     overflow: hidden;
     background-color: #ffffff00;
 }
 
 .navbar a {
-    float: left;
+    margin-left: auto;
+    float: right;
     font-size: 16px;
     color: black;
     text-align: center;
