@@ -9,7 +9,7 @@
 body{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
     padding-top: 10px;
-    height: 750px;
+    height: 100vh;
     background: linear-gradient(#4998ff, transparent 90%),
                 linear-gradient(0deg, #7fd2ff, transparent),
                 #49bfff url('assets/swimming-pool.png') no-repeat center;
